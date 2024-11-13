@@ -1,5 +1,9 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:
+
+## Name:H.Berjin Shabeck
+## Reg no:212222240018
+## Date:24/08/2024
+
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python for student study hours and marks.
 
